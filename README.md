@@ -1,2 +1,6 @@
 # Image-Editor
 Using python and flask , Bootstrap. It's a Responsive Website where you convert your image to specific format...
+
+Here is the Simple view of my Website...
+
+![Screenshot (16)](https://user-images.githubusercontent.com/102974292/236415351-2b9366cf-ee4d-4c01-beee-1485e02424e1.png)
